@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mgrzanka
-- 🌱 I’m currently learning Artificial Intelligence Algorithms, with an emphasis on Machine learning
+👋 Hi, I’m @mgrzanka
+🌱 I’m currently learning Artificial Intelligence Algorithms, with an emphasis on Machine learning
 
 <!---
 mgrzanka/mgrzanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
