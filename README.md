@@ -2,7 +2,7 @@
 
 🌱 I’m a CS student at WUT with interest in:
   - programming,
-  - Back-end development and
+  - Back-end development,
   - Artificial Intelligence
 
 <!---
